@@ -55,16 +55,10 @@ src/
 ```
 
 ## How to Compile
-
-Firstly, 
-cd D:\foodordering\src
-then
 javac -cp .;mysql-connector-j-9.6.0.jar foodordering\FoodOrderingSystem.java foodordering\*.java
 
 ## How to Run
 java -cp .;mysql-connector-j-9.6.0.jar foodordering.FoodOrderingSystem
 
-
 ## Presentation Video Link
-
 https://drive.google.com/file/d/15okjuob-jU0Zqt35MM4RPOsfBNb4AAm9/view?usp=sharing
