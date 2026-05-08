@@ -7,6 +7,7 @@
 - Section: C
 - Course: Object Oriented Program
 - Instructor: Dr. Saif Hassan
+- Institute: Sukkur IBA University
 
 ## Project Overview
 The Food Ordering System is a desktop application built in Java that connects customers with restaurant menus through a clean and simple interface. Customers can register an account, log in, browse food items from multiple restaurants, filter by category, add items to a cart, and place orders with a single click. Every order is saved to a MySQL database instantly, and customers can revisit their order history at any time. On the other side, an administrator can log in to a dedicated panel that shows all incoming orders from all customers, with the ability to update each order's status from Pending through Processing to Delivered or Cancelled.
