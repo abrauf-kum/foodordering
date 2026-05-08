@@ -19,6 +19,7 @@ The purpose of the Food Ordering System is to provide a fast, organized, and use
 
 ## Directory Layout
 
+```text
 src/
 └── foodordering/
     │
@@ -44,13 +45,14 @@ src/
     │
     ├── util/                          ← Shared UI utilities
     │   ├── Theme.java                 (colours, fonts, component factories)
-    │   └── BaseView.java              (abstract — shared banner + 	        logout)
+    │   └── BaseView.java              (abstract — shared banner + logout)
     │
     └── view/                          ← UI screens
         ├── LoginView.java
         ├── RegisterView.java
         ├── MainView.java
         └── AdminView.java
+```
 
 ## How to Compile
 
